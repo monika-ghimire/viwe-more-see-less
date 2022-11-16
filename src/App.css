@@ -1,0 +1,30 @@
+#viewMore
+{
+  display: none;
+}
+.btns
+{
+  border: none;
+  background-color: white;
+  height:3px;
+}
+.container ul li
+{
+  list-style: none;
+  border-bottom:1px solid gainsboro;
+  padding:10px;
+}
+#seeLess
+{
+display: none;
+border: none;
+  background-color: white;
+}
+#seeLess:hover
+{
+  background-color: gainsboro;
+}
+.container ul :hover
+{
+  background-color: gainsboro;
+}
